@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to NCPL JavaTutorials..</h2>
+<h2>Welcome to NCPL AWS DEVOPS..</h2>
 </body>
 </html>
